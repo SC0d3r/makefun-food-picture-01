@@ -12,3 +12,5 @@ Run it locally:
     mkdir -p out && MAKEFUN_OUTPUT_DIR=out python3 main.py
 
 `out/entry.png` will be an exact copy of the submitted image.
+
+<!-- rehearse 2026-11-14T00:40Z -->
